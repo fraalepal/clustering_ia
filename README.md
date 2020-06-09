@@ -9,3 +9,4 @@ El algoritmo diseñado deberá seguir el siguiente esquema general:
 2.1. actualizar grados de pertenencia de los puntos a las circunferencias
 2.2. actualizar centros y radios
 3. Asignar cada punto únicamente a su cluster de mayor grado de pertenencia, y devolver la información completa para cada cluster (centro, radio y lista de puntos asignados a él).
+
