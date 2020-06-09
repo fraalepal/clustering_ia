@@ -1,0 +1,1 @@
+Explicación del código fuente e interfaz si precisa.
