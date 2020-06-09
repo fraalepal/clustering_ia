@@ -1,5 +1,5 @@
 # Clustering en anillos con ruido
-## Inteligencia Artificial (IS) 2019/20 – Propuesta de trabajo
+## Inteligencia Artificial (IS) 2019/20
 
 ### Requisitos 
 
@@ -14,16 +14,16 @@ El algoritmo diseñado deberá seguir el siguiente esquema general:
 ### Criterios de evaluación
 Para que el trabajo pueda ser evaluado, se deberá satisfacer los objetivos concretos descritos en el apartado 1 (todos y cada uno de ellos, al menos en su versión básica). Se entregará un fichero comprimido .zip, que contenga.
 
-• Una carpeta con el código fuente.
+  • Una carpeta con el código fuente.
 
-• El documento – artículo en formato PDF. Deberá tener una extensión mínima de 6 páginas.
+  • El documento – artículo en formato PDF. Deberá tener una extensión mínima de 6 páginas.
 
-• El código fuente 
+  • El código fuente 
 
-• Usabilidad y experimentación 
+  • Usabilidad y experimentación 
 
-• El documento – artículo científico 
+  • El documento – artículo científico 
 
-• La presentación y defensa
+  • La presentación y defensa
 
-• Mejoras
+  • Mejoras
