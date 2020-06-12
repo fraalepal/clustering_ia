@@ -3,3 +3,5 @@ https://www.geeksforgeeks.org/equation-of-circle-when-three-points-on-the-circle
 https://www.sangakoo.com/es/temas/circunferencia-que-pasa-por-3-puntos-dados
 
 http://lineadecodigo.com/python/lista-aleatoria-python/
+
+https://es.stackoverflow.com/questions/62209/distancia-entre-punto-y-segmento
